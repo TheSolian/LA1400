@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LA_1400_Croissant/1.0.0": {
+        "runtime": {
+          "LA_1400_Croissant.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LA_1400_Croissant/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
